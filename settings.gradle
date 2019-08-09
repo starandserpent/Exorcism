@@ -1,0 +1,3 @@
+rootProject.name = 'Exorcism'
+include 'exorcism-core'
+
